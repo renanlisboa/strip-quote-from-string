@@ -1,0 +1,15 @@
+{
+  "name": "strip-quote-from-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:renanlisboa/strip-quote-from-string.git",
+  "author": "renanlisboa <renlp89.developer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.1.0"
+  }
+}
